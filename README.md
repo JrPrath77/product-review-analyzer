@@ -288,20 +288,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **v1.2.0** - Enhanced fake review detection
 - **v2.0.0** - Planned ML integration
 
-## 📞 Support & Community
-
-- 🐛 **Bug Reports**: [Create an Issue](https://github.com/yourusername/product-review-analyzer/issues)
-- 💡 **Feature Requests**: [Discussions](https://github.com/yourusername/product-review-analyzer/discussions)
-- 📧 **Email**: support@productreviewanalyzer.com
-- 💬 **Discord**: [Join our community](https://discord.gg/productreviewanalyzer)
-
-## 🏆 Acknowledgments
-
-- **NLTK Team** - Excellent NLP library
-- **Streamlit** - Amazing web framework
-- **Plotly** - Beautiful visualizations
-- **OpenAI** - Inspiration for AI-powered tools
-
 ---
 
 <div align="center">
