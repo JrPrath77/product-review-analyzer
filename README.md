@@ -306,7 +306,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+**Made with ❤️ by [Prathmesh Patil](https://JrPrath77/)**
 
 [⭐ Star this repo](https://github.com/yourusername/product-review-analyzer) • [🐛 Report issues](https://github.com/yourusername/product-review-analyzer/issues) • [📖 Documentation](https://github.com/yourusername/product-review-analyzer/wiki)
 
