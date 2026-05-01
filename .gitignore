@@ -34,3 +34,4 @@ Thumbs.db
 *.log
 report.txt
 review_analysis_results.csv
+.claude/
