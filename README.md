@@ -67,7 +67,7 @@ product_review_analyzer/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/product-review-analyzer.git
+git clone https://github.com/JrPrath77/product-review-analyzer.git
 cd product-review-analyzer
 
 # Create and activate virtual environment (recommended)
@@ -238,7 +238,7 @@ We welcome contributions! Here's how to get started:
 ### 📋 Development Setup
 ```bash
 # Fork and clone the repository
-git clone https://github.com/yourusername/product-review-analyzer.git
+git clone https://github.com/JrPrath77/product-review-analyzer.git
 cd product-review-analyzer
 
 # Set up development environment
@@ -294,6 +294,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Made with ❤️ by [Prathmesh Patil](https://JrPrath77/)**
 
-[⭐ Star this repo](https://github.com/yourusername/product-review-analyzer) • [🐛 Report issues](https://github.com/yourusername/product-review-analyzer/issues) • [📖 Documentation](https://github.com/yourusername/product-review-analyzer/wiki)
+[⭐ Star this repo](https://github.com/JrPrath77/product-review-analyzer) • [🐛 Report issues](https://github.com/JrPrath77/product-review-analyzer/issues) • [📖 Documentation](https://github.com/JrPrath77/product-review-analyzer/wiki)
 
 </div>
